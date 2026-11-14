@@ -17,8 +17,8 @@ function fill(label, value) { fireEvent.change(screen.getByLabelText(label), { t
 it('dashboard presenta métricas reales, contexto y alertas; sin registros no inventa actividad', () => {
   const { db } = adminFixture(); mount(db);
   expect(screen.getByRole('heading', { name: 'Dashboard' })).toBeTruthy();
-  expect(screen.getByRole('region', { name: 'Ventas simuladas' }).textContent).toMatch(/USD\s1,794\.00/);
-  expect(screen.getByText(/Periodo: todo el historial local/)).toBeTruthy();
+  expect(screen.getByRole('region', { name: 'Importe de pedidos' }).textContent).toMatch(/USD\s1,794\.00/);
+  expect(screen.getByText(/Periodo: todo el historial\./)).toBeTruthy();
   act(() => db.update((data) => { data.Orders = []; data.Customers = []; }));
   expect(screen.getByText('Aún no hay pedidos registrados.')).toBeTruthy();
   expect(screen.getByText('Todavía no hay clientes registrados.')).toBeTruthy();
@@ -130,7 +130,7 @@ it('pedidos terminales no presentan selector y las transiciones no se duplican',
   }
   mount(db, '/admin/logistics'); fireEvent.click(screen.getByRole('button', { name: `Gestionar pedido ${orderId}` }));
   expect(screen.queryByRole('combobox', { name: 'Nuevo estado' })).toBeNull();
-  expect(screen.getByText(/estado terminal/)).toBeTruthy();
+  expect(screen.getByText('Este pedido ha finalizado y no admite más cambios de estado.')).toBeTruthy();
 });
 
 it('cerrar el formulario con cancelación nativa devuelve el foco y no escribe cambios', () => {

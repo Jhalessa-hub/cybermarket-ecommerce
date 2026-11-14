@@ -32,6 +32,6 @@ export default function OrderTimeline({ order }) {
     </ol>
     {order.status === 'delivered' && <p className="flex items-center gap-2 text-sm text-emerald-300"><CircleCheck size={17} aria-hidden="true" />Proceso completado</p>}
     {future.length > 0 && <div className="border-t border-white/10 pt-5"><h3 className="text-xs font-medium uppercase tracking-widest text-ink-muted">Próximas etapas</h3><ol aria-label="Etapas por completar" className="mt-3 flex flex-wrap gap-x-5 gap-y-3 text-xs text-ink-muted">{future.map((status) => <li key={status} className="flex items-center gap-2"><span className="h-1.5 w-1.5 rounded-full border border-white/30" aria-hidden="true" />{orderStatuses[status].label} · Por completar</li>)}</ol></div>}
-    <p className="border-t border-white/10 pt-4 text-xs leading-relaxed text-ink-muted">Flujo previsto: Pendiente → Pagado → Enviado → Entregado. Seguimiento de demostración local, sin conexión con transportistas ni fechas de entrega estimadas.</p>
+    <p className="border-t border-white/10 pt-4 text-xs leading-relaxed text-ink-muted">Sigue el progreso de tu pedido: Pendiente → Pagado → Enviado → Entregado. Aquí encontrarás las actualizaciones de cada etapa.</p>
   </section>;
 }

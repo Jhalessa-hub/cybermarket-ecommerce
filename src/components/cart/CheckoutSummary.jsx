@@ -18,7 +18,7 @@ export default function CheckoutSummary({ summary }) {
       <div className="flex justify-between text-sm text-ink-muted"><dt>Subtotal</dt><dd>{formatMoney(summary.totalCents)}</dd></div>
       <div className="flex justify-between gap-3 text-xl font-bold"><dt>Total</dt><dd>{formatMoney(summary.totalCents)}</dd></div>
     </dl>
-    <p className="text-xs leading-relaxed text-ink-muted">No se añaden cargos de envío ni impuestos en esta demostración. El inventario y los precios se comprueban antes de registrar el pedido.</p>
+    <p className="text-xs leading-relaxed text-ink-muted">Sin cargos adicionales de envío ni impuestos. Los precios y la disponibilidad se verifican al confirmar el pedido.</p>
     <Link className="inline-block text-sm text-brand-yellow underline underline-offset-4" to={paths.cart}>Editar mi carrito</Link>
   </aside>;
 }

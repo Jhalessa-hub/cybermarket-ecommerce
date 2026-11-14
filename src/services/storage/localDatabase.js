@@ -50,7 +50,7 @@ export function createLocalDatabase({ getStorage = () => window.localStorage, ge
     }
     let parsed;
     try { parsed = JSON.parse(raw); }
-    catch { throw new DomainError('CORRUPT', 'Los datos locales están dañados. No se han borrado; reintenta o solicita restablecer la demo.'); }
+    catch { throw new DomainError('CORRUPT', 'No se pudieron leer los datos guardados. Se han conservado sin cambios; vuelve a intentarlo.'); }
     // Una Session antigua en localStorage jamás concede permisos a una pestaña nueva.
     const data = migrateDatabase({ ...parsed, Session: null });
     if (data.version !== parsed.version || parsed.Session !== null) storage.setItem(DATABASE_KEY, JSON.stringify(data));
@@ -194,7 +194,7 @@ export function createLocalDatabase({ getStorage = () => window.localStorage, ge
     },
     // Solo con confirmación explícita. No toca claves de otras aplicaciones ni el carrito.
     reset({ confirmed = false } = {}) {
-      if (!confirmed) throw new DomainError('CONFIRM_REQUIRED', 'Confirma antes de restablecer los datos de la demo.');
+      if (!confirmed) throw new DomainError('CONFIRM_REQUIRED', 'Confirma antes de restablecer los datos de la tienda.');
       try {
         const storage = getStorage();
         const old = storage.getItem(DATABASE_KEY);

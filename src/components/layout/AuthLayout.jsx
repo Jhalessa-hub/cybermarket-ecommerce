@@ -12,7 +12,7 @@ export default function AuthLayout({ title, description, children }) {
       <section className="panel space-y-6 !p-8">
         <div><h2 className="text-2xl font-bold">{title}</h2><p className="mt-2 text-sm text-ink-muted">{description}</p></div>
         {children}
-        <p className="flex gap-2 border-t border-white/10 pt-5 text-xs leading-relaxed text-ink-muted"><ShieldCheck className="shrink-0" size={17} aria-hidden="true" />Demo local académica, sin seguridad de producción. No ingreses datos personales ni contraseñas reales.</p>
+        <p className="flex gap-2 border-t border-white/10 pt-5 text-xs leading-relaxed text-ink-muted"><ShieldCheck className="shrink-0" size={17} aria-hidden="true" />Gestiona tu perfil, guarda tus direcciones y consulta tus pedidos desde tu cuenta.</p>
       </section>
     </div>
   );

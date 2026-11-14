@@ -11,6 +11,6 @@ export default function MyOrdersPage() {
   return <div className="mx-auto max-w-5xl space-y-7">
     <header><p className="eyebrow">TUS PEDIDOS, EN UN SOLO LUGAR</p><h1 className="mt-3 text-3xl font-bold">Mis Compras</h1><p className="mt-3 text-sm text-ink-muted">Consulta tus compras y el último avance de cada pedido.</p></header>
     {orders.length ? <OrderList orders={orders} /> : <section className="rounded-2xl border border-dashed border-white/15 py-14 text-center"><ShoppingBag size={40} className="mx-auto mb-5 text-ink-muted" aria-hidden="true" /><h2 className="text-xl font-semibold">Aún no tienes compras</h2><p className="mx-auto mb-7 mt-3 max-w-sm px-4 text-sm text-ink-muted">Cuando confirmes tu primer pedido, podrás consultarlo aquí.</p><Link to={paths.store} className="button-primary inline-block">Explorar la tienda</Link></section>}
-    <p className="text-xs leading-relaxed text-ink-muted">Historial de demostración guardado en este navegador. Los estados de pago y envío son simulados; no representan cobros ni movimientos de un transportista real.</p>
+    <p className="text-xs leading-relaxed text-ink-muted">Consulta tus compras y sigue el estado de cada pedido desde aquí.</p>
   </div>;
 }

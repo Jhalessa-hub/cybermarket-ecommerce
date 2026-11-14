@@ -42,7 +42,7 @@ export default function ProfileForm() {
             <input type="file" accept="image/jpeg,image/png,image/webp" onChange={choosePhoto} className="sr-only" />
           </label>
           {values.avatar && <button type="button" className="ml-3 text-xs text-ink-muted hover:text-white" onClick={() => setValues({ ...values, avatar: null })}>Quitar foto</button>}
-          <p className="text-xs text-ink-muted">JPG, PNG o WebP · Hasta 2 MB · Solo en tu navegador</p>
+          <p className="text-xs text-ink-muted">JPG, PNG o WebP · Hasta 2 MB</p>
         </div>
       </div>
       {preparing && <p role="status" className="text-sm text-ink-muted">Preparando tu foto…</p>}

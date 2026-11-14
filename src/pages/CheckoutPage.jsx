@@ -94,7 +94,7 @@ export default function CheckoutPage() {
           <h2 id="shipping-heading" className="flex items-center gap-2 text-xl font-semibold"><MapPin size={21} className="text-brand-orange" aria-hidden="true" />1. Enviar a…</h2>
           <p className="text-sm text-ink-muted">Selecciona una dirección guardada o añade una nueva. Es obligatoria para continuar.</p>
           <form onSubmit={savePhone} noValidate className="space-y-3 rounded-xl border border-white/10 p-4">
-            <FormField label="Teléfono de contacto" name="phone" type="tel" autoComplete="tel" required value={phone} onChange={(event) => setPhone(event.target.value)} error={phoneError} hint="Obligatorio para el envío. Usa datos ficticios en esta demo." />
+            <FormField label="Teléfono de contacto" name="phone" type="tel" autoComplete="tel" required value={phone} onChange={(event) => setPhone(event.target.value)} error={phoneError} hint="Indica un número de contacto para tu envío." />
             <button type="submit" className="button-secondary">Guardar teléfono</button>
             {quote && phoneSaved && <p className="text-xs text-emerald-300">Teléfono guardado y válido.</p>}
           </form>
@@ -104,11 +104,11 @@ export default function CheckoutPage() {
         <section className={`panel space-y-5 ${!addressReady ? 'border-dashed' : ''}`} aria-labelledby="payment-heading">
           <h2 ref={paymentHeading} tabIndex={-1} id="payment-heading" className="flex items-center gap-2 text-xl font-semibold outline-none"><CreditCard size={21} className="text-brand-orange" aria-hidden="true" />2. Pago y confirmación</h2>
           {!addressReady ? <p className="flex items-start gap-2 text-sm text-ink-muted"><LockKeyhole size={18} className="shrink-0" aria-hidden="true" />Primero guarda tu teléfono y confirma tu dirección de envío.</p> : <form onSubmit={confirm} className="space-y-5">
-            <div className="rounded-xl border border-brand-yellow/25 bg-brand-yellow/5 p-5"><p className="flex items-center gap-2 font-semibold"><CreditCard size={19} aria-hidden="true" />Pago de tu pedido</p><p className="mt-2 text-sm text-ink-muted">El pedido se registrará al confirmar. No necesitas introducir datos bancarios.</p></div>
-            <p className="rounded-lg bg-white/5 px-3 py-2 text-xs leading-relaxed text-ink-muted">Modo demostración · Pago simulado, sin cobros reales.</p>
-            <label className="flex cursor-pointer items-start gap-3 text-sm leading-relaxed"><input type="checkbox" className="mt-1 h-4 w-4 shrink-0 accent-brand-yellow" checked={accepted} onChange={(event) => setAccepted(event.target.checked)} />He revisado los artículos, el total de {formatMoney(quote.totalCents)} y la dirección de envío. Confirmo este pedido de demostración.</label>
+            <div className="rounded-xl border border-brand-yellow/25 bg-brand-yellow/5 p-5"><p className="flex items-center gap-2 font-semibold"><CreditCard size={19} aria-hidden="true" />Pago de tu pedido</p><p className="mt-2 text-sm text-ink-muted">Revisa el resumen de tu compra antes de confirmar el pedido.</p></div>
+            <p className="rounded-lg bg-white/5 px-3 py-2 text-xs leading-relaxed text-ink-muted">Verifica los artículos, el importe total y los datos de envío.</p>
+            <label className="flex cursor-pointer items-start gap-3 text-sm leading-relaxed"><input type="checkbox" className="mt-1 h-4 w-4 shrink-0 accent-brand-yellow" checked={accepted} onChange={(event) => setAccepted(event.target.checked)} />He revisado los artículos, el total de {formatMoney(quote.totalCents)} y la dirección de envío. Confirmo mi pedido.</label>
             <button type="submit" className="button-primary flex w-full items-center justify-center gap-2" disabled={!accepted || busy || shop.cartSummary.adjustments.length > 0}><LockKeyhole size={18} aria-hidden="true" />{busy ? 'Procesando pedido…' : `Confirmar y pagar ${formatMoney(quote.totalCents)}`}</button>
-            <p className="text-xs leading-relaxed text-ink-muted">Tu pedido se guardará en este navegador. No se enviarán correos ni se realizará un envío real.</p>
+            <p className="text-xs leading-relaxed text-ink-muted">Podrás consultar los detalles y el estado de tu pedido en Mis Compras.</p>
           </form>}
         </section>
       </div>

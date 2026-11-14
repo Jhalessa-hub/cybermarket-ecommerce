@@ -1,4 +1,4 @@
-// Modelos comerciales reales; precios, inventario y configuraciones son de demostración.
+// Catálogo inicial de modelos comerciales, precios, inventario y configuraciones.
 // No son cotizaciones actuales ni afirman disponibilidad o afiliación con los fabricantes.
 export const categories = [
   { id: 'computers', name: 'Computadoras ensambladas' },
@@ -107,10 +107,10 @@ function product(categoryId, row, index, specs) {
     name: `${brand} ${model}`,
     brand,
     categoryId,
-    description: `Modelo comercial ${brand} ${model}. Precio e inventario ficticios para la demo académica. Verificar la ficha del fabricante y el SKU antes de una compra real.`,
+    description: `${brand} ${model}. Consulta las especificaciones del fabricante y la configuración de este modelo para elegir el equipo adecuado.`,
     priceCents: dollars * 100,
     currency: 'USD',
-    priceNote: 'Precio referencial de demostración; no es una cotización actual.',
+    priceNote: 'Precio en USD. Consulta la disponibilidad del producto antes de confirmar tu pedido.',
     stock: [12, 8, 4, 0, 16, 3, 7, 5][index % 8],
     active: true,
     image: null,

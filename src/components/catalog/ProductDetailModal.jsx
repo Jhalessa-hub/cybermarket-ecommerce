@@ -23,7 +23,7 @@ export default function ProductDetailModal({ product, onClose }) {
         <p className="text-sm leading-relaxed text-ink-muted">{product.description}</p>
         <button className="button-primary inline-flex items-center gap-2" disabled={product.stock === 0 || quantity >= product.stock} onClick={() => cart.add(product.id)}><ShoppingCart size={18} aria-hidden="true" />{product.stock === 0 ? 'Agotado' : quantity >= product.stock ? 'Máximo disponible en el carrito' : 'Añadir al carrito'}</button>
         {quantity > 0 && <p className="text-xs text-ink-muted">Ya tienes {quantity} en tu carrito. Máximo disponible: {product.stock}.</p>}
-        <p className="text-xs leading-relaxed text-ink-muted">Precio e inventario referenciales de demostración. No es una oferta ni un cobro real.</p>
+        <p className="text-xs leading-relaxed text-ink-muted">Precio en USD. La disponibilidad se verifica al confirmar tu pedido.</p>
         {photo && <p className="text-xs leading-relaxed text-ink-muted">
           {photo.variant ? `Variante fotografiada: ${photo.variant}. ` : 'Foto del modelo o familia comercial; la configuración puede variar. '}
           <a className="underline hover:text-accent" href={photo.sourcePage} target="_blank" rel="noreferrer">Fuente de la imagen</a>

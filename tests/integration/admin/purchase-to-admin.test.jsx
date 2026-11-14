@@ -40,7 +40,7 @@ it('registro real → compra → recarga → login Admin muestra ventas, stock, 
   mount(restored, '/login'); fill('Email', 'admin@cybermarket.com'); fill('Contraseña', 'admin123');
   fireEvent.click(screen.getByRole('button', { name: 'Iniciar sesión' }));
   await waitFor(() => expect(screen.getByRole('heading', { name: 'Dashboard' })).toBeTruthy());
-  expect(screen.getByRole('region', { name: 'Ventas simuladas' }).textContent).toMatch(/USD\s598\.00/);
+  expect(screen.getByRole('region', { name: 'Importe de pedidos' }).textContent).toMatch(/USD\s598\.00/);
   expect(screen.getByRole('region', { name: 'Pedidos registrados' }).textContent).toContain('1');
   expect(screen.getByRole('region', { name: 'Clientes registrados' }).textContent).toContain('1');
   const units = restored.getSnapshot().data.Products.filter((p) => p.active).reduce((sum, p) => sum + p.stock, 0);

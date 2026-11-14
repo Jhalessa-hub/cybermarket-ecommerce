@@ -27,7 +27,7 @@ it('requiere confirmar dirección y revisar resumen antes de pagar; no solicita 
   fireEvent.click(screen.getByRole('button', { name: 'Continuar al pago' }));
   const pay = screen.getByRole('button', { name: /Confirmar y pagar/ });
   expect(pay.disabled).toBe(true);
-  expect(screen.getByText(/Pago simulado, sin cobros reales/)).toBeTruthy();
+  expect(screen.getByText('Verifica los artículos, el importe total y los datos de envío.')).toBeTruthy();
   expect(document.querySelector('[autocomplete^="cc-"]')).toBeNull();
   expect(document.querySelector('input[name*="card"],input[name="cvv"],input[name="pin"]')).toBeNull();
   fireEvent.click(screen.getByRole('checkbox', { name: /He revisado los artículos/ }));

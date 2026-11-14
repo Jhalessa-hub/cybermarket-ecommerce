@@ -7,8 +7,8 @@ export function calculateMetrics(data) {
   const active = data.Products.filter((product) => product.active);
   const salesCents = data.Orders.filter((order) => order.status !== 'cancelled').reduce((sum, order) => sum + order.totalCents, 0);
   const stockUnits = active.reduce((sum, product) => sum + product.stock, 0);
-  if (!isMoney(salesCents)) throw new DomainError('TOTAL', 'El importe de ventas supera el límite admitido por la demo.');
-  if (!isStock(stockUnits)) throw new DomainError('TOTAL', 'Las unidades de inventario superan el límite admitido por la demo.');
+  if (!isMoney(salesCents)) throw new DomainError('TOTAL', 'El importe de los pedidos supera el límite permitido para el cálculo.');
+  if (!isStock(stockUnits)) throw new DomainError('TOTAL', 'Las unidades de inventario superan el límite permitido para el cálculo.');
   return {
     activeProducts: active.length,
     stockUnits,

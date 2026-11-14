@@ -21,7 +21,7 @@ export function summarizeCart(lines, products) {
     return { ...line, product: product ?? null, lineTotalCents: product ? product.priceCents * line.quantity : 0 };
   });
   const totalCents = result.reduce((sum, line) => sum + line.lineTotalCents, 0);
-  if (!isMoney(totalCents)) throw new DomainError('TOTAL', 'El importe supera el límite admitido por la demo.');
+  if (!isMoney(totalCents)) throw new DomainError('TOTAL', 'El importe supera el límite permitido por pedido.');
   return { lines: result, totalCents, itemCount: lines.reduce((sum, line) => sum + line.quantity, 0), adjustments: reconcileCart(lines, products).adjustments };
 }
 

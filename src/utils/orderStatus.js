@@ -3,9 +3,9 @@ import { hasValidDate } from './dates.js';
 export const orderStages = ['pending', 'paid', 'shipped', 'delivered'];
 export const orderStatuses = {
   pending: { label: 'Pendiente', description: 'Tu pedido está registrado y pendiente de procesamiento.' },
-  paid: { label: 'Pagado', description: 'El pago se ha marcado como completado en la demostración.' },
-  shipped: { label: 'Enviado', description: 'Tu pedido se ha marcado como enviado en el flujo local.' },
-  delivered: { label: 'Entregado', description: 'Tu pedido se ha marcado como entregado. Proceso completado.' },
+  paid: { label: 'Pagado', description: 'El pago de tu pedido figura como completado.' },
+  shipped: { label: 'Enviado', description: 'Tu pedido está en camino a la dirección indicada.' },
+  delivered: { label: 'Entregado', description: 'Tu pedido figura como entregado. Gracias por elegir CyberMarket.' },
   cancelled: { label: 'Cancelado', description: 'El pedido se ha cancelado. El proceso no continuará.' },
   incident: { label: 'Incidencia', description: 'Se ha registrado una incidencia. El seguimiento está en pausa.' },
 };

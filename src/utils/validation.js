@@ -62,7 +62,7 @@ export function validateProduct(product, categories) {
   if (!categories.some((category) => category.id === product?.categoryId)) fields.categoryId = 'Selecciona una categoría válida.';
   if (!isMoney(product?.priceCents)) fields.priceCents = 'El precio debe ser un entero no negativo en centavos.';
   if (!isStock(product?.stock)) fields.stock = 'Las existencias deben ser un entero no negativo.';
-  if (product?.currency !== 'USD') fields.currency = 'La moneda de la demo es USD.';
+  if (product?.currency !== 'USD') fields.currency = 'Los precios deben indicarse en USD.';
   if (typeof product?.active !== 'boolean') fields.active = 'Indica el estado del producto.';
   if (!isRecord(product?.specs)) fields.specs = 'Especificaciones inválidas.';
   if (product?.brand != null && typeof product.brand !== 'string') fields.brand = 'La marca debe ser texto.';
