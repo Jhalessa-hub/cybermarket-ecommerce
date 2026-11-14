@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root { color-scheme: dark; }
+  body { @apply m-0 bg-canvas font-sans text-ink-primary antialiased; }
+  button, a, input, select { @apply focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-brand-yellow; }
+  button { @apply disabled:cursor-not-allowed disabled:opacity-50; }
+  summary { @apply focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-brand-yellow; }
+  ::selection { @apply bg-brand-orange/40 text-white; }
+}
+
+@layer components {
+  .button-primary { @apply rounded-xl bg-brand-yellow px-5 py-3 font-semibold text-canvas transition-colors hover:bg-yellow-300; }
+  .button-secondary { @apply rounded-xl border border-white/20 px-5 py-3 font-medium hover:bg-white/5; }
+  .panel { @apply rounded-2xl border border-white/10 bg-surface p-6 shadow-glow; }
+  .form-input { @apply w-full rounded-xl border border-white/15 bg-canvas px-4 py-3 text-sm text-ink-primary placeholder:text-ink-muted/50 aria-[invalid=true]:border-red-400/70; }
+  .form-error { @apply rounded-xl border border-red-400/20 bg-red-400/5 p-3 text-sm text-red-300; }
+  .eyebrow { @apply text-xs font-semibold uppercase tracking-[0.18em] text-brand-orange; }
+  .icon-button { @apply rounded-lg p-2 text-ink-muted hover:bg-white/5 hover:text-white; }
+  .dropdown-link { @apply flex items-center gap-3 rounded-lg px-3 py-3 text-left text-sm hover:bg-white/5; }
+  .shipping-destination { @apply inline-flex min-w-0 items-center gap-2.5 rounded-xl px-2 py-1.5 transition-colors hover:bg-white/5; }
+  .cart-dialog[open] { @apply flex flex-col; }
+}

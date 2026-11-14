@@ -1,0 +1,802 @@
+{
+  "computers-001": {
+    "name": "Dell XPS Desktop 8960",
+    "src": "/images/catalog/products/computers-001.png",
+    "sourcePage": "https://www.dell.com/en-us/shop/cty/spd/xps-8960-desktop",
+    "sourceImage": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/xps-desktops/xps-8960-tracer/media-gallery/black/xs8960-csy-00015rf-bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=261&qlt=100,1&resMode=sharp2&size=261,402&chrss=full",
+    "sourceTitle": "XPS 8960 Laptop | Dell USA",
+    "variant": null,
+    "bytes": 124161,
+    "sha256": "5d7a61686c5531cca23dd0478d23cec37e789526ce1873e97cc730a58086cfac"
+  },
+  "computers-002": {
+    "name": "Alienware Aurora R16",
+    "src": "/images/catalog/products/computers-002.png",
+    "sourcePage": "https://www.dell.com/en-us/shop/cty/spd/alienware-aurora-r16-desktop",
+    "sourceImage": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/alienware-desktops/alienware-aurora-r16/media-gallery/liquid/desktop-aw-r16-bk-lqd-cooling-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=476&qlt=100,1&resMode=sharp2&size=476,402&chrss=full",
+    "sourceTitle": "Aurora R16 Desktop | Dell USA",
+    "variant": null,
+    "bytes": 154247,
+    "sha256": "b6bb1100f7e24f5b484387ca61d018a8962e0ba0a07a014a82e021a8bc906160"
+  },
+  "computers-003": {
+    "name": "HP OMEN 25L",
+    "src": "/images/catalog/products/computers-003.png",
+    "sourcePage": "https://www.hp.com/us-en/gaming-pc/desktops/omen-25l-amd-nvidia.html",
+    "sourceImage": "https://www.hp.com/content/dam/sites/omen/worldwide/desktops/omen-25l/image-25l.png",
+    "sourceTitle": "HP OMEN 25L AMD Gaming Desktop | HP® Official Site",
+    "variant": null,
+    "bytes": 223040,
+    "sha256": "e58c5227c8fbbaf1bc2ed3af31f25ecddf6555e2fe43c58d7ae6b015bb09085b"
+  },
+  "computers-004": {
+    "name": "HP OMEN 40L",
+    "src": "/images/catalog/products/computers-004.png",
+    "sourcePage": "https://www.hp.com/gb-en/gaming-pc/desktops.html",
+    "sourceImage": "https://www.hp.com/content/dam/sites/omen/worldwide/desktops/2022-desktop-home-2-0/21-C-2~11.png",
+    "sourceTitle": "HYPERX GAMING DESKTOPS | HP® Official Site",
+    "variant": null,
+    "bytes": 50585,
+    "sha256": "3f8853d832ea001ed2a112704517dc85d0dba04404e2aa661f63715772736086"
+  },
+  "computers-005": {
+    "name": "Lenovo Legion Tower 5i Gen 8",
+    "src": "/images/catalog/products/computers-005.png",
+    "sourcePage": "https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/-legion-tower-5i-gen-8-26l,-intel/len102g0006",
+    "sourceImage": "https://p1-ofp.static.pub//fes/cms/2024/09/11/gqspnbo0n543tm4b4bjr348k3biy2f061108.png?width=584&height=584",
+    "sourceTitle": "Legion Tower 5i Gen 8 (Intel) | Future-proof, Intel®- and NVIDIA®-powered gaming | Lenovo US",
+    "variant": null,
+    "bytes": 266581,
+    "sha256": "48aa18f5aaf793aa19b49ff4c7dc5707713cdeb92650cdea9ad8ff948d049782"
+  },
+  "computers-006": {
+    "name": "Lenovo Legion Tower 7i Gen 8",
+    "src": "/images/catalog/products/computers-006.png",
+    "sourcePage": "https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/legion-tower-7i-gen-8-34l-intel/len102g0007",
+    "sourceImage": "https://p3-ofp.static.pub//fes/cms/2024/09/11/nsknoapx5a6rm7gy9nmlg9lm60cw7q321172.png?width=584&height=584",
+    "sourceTitle": "Legion Tower 7i Gen 8 (Intel) | Competition-ready tower gaming PC powered by Intel® | Lenovo US",
+    "variant": null,
+    "bytes": 308843,
+    "sha256": "6ee5975e2431b28ea6a8509fe8f1997a0a8a4c7b6d83fd507bdde4cf0ea5ea51"
+  },
+  "computers-007": {
+    "name": "MSI MAG Infinite S3 14th",
+    "src": "/images/catalog/products/computers-007.webp",
+    "sourcePage": "https://www.msi.com/Desktop/MAG-Infinite-S3-14th",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_17417493016d65f23dfba85531bddba07a0ef6dc26.webp",
+    "sourceTitle": "MSI MAG Infinite S3 14th AI Gaming Desktop | Nvidia Ada Lovelace, Intel 14 Gen | MSI",
+    "variant": null,
+    "bytes": 57214,
+    "sha256": "a472cd6b8ad6e28543476144e0e13eed9728a0cccddb6354d25114d52ede2d42"
+  },
+  "computers-008": {
+    "name": "ASUS ROG G16CH",
+    "src": "/images/catalog/products/computers-008.png",
+    "sourcePage": "https://rog.asus.com/desktops/mid-tower/rog-strix-g16ch-series/",
+    "sourceImage": "https://dlcdnwebimgs.asus.com/gain/95E413EB-A725-4131-82B8-FF76A880EE0D",
+    "sourceTitle": "ROG Strix G16CH | Desktops | ROG",
+    "variant": null,
+    "bytes": 3845380,
+    "sha256": "492f584da28225f192c4a4cdda683961a6ec7ab740aa9d12ec911f9e08affaae"
+  },
+  "graphics-001": {
+    "name": "NVIDIA GeForce RTX 4060",
+    "src": "/images/catalog/products/graphics-001.webp",
+    "sourcePage": "https://www.msi.com/Graphics-Card/GeForce-RTX-4060-VENTUS-2X-BLACK-8G-OC",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_1689728820bee4166c12b53c656c39ab1b81888843.webp",
+    "sourceTitle": "MSI GeForce RTX™ 4060 VENTUS 2X BLACK 8G OC",
+    "variant": "MSI GeForce RTX 4060 VENTUS 2X BLACK 8G OC",
+    "bytes": 40998,
+    "sha256": "c6e5e3c145d8c74ec2b6452202938029f2d1ec1c309f2345df23bb9e0181d038"
+  },
+  "graphics-002": {
+    "name": "NVIDIA GeForce RTX 4060 Ti 8 GB",
+    "src": "/images/catalog/products/graphics-002.webp",
+    "sourcePage": "https://www.msi.com/Graphics-Card/GeForce-RTX-4060-Ti-VENTUS-2X-BLACK-8G-OC",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_1684388309f60246f6be0d4cac5d4beb1106192066.webp",
+    "sourceTitle": "MSI GeForce RTX™ 4060 Ti VENTUS 2X BLACK 8G OC",
+    "variant": "MSI GeForce RTX 4060 Ti VENTUS 2X BLACK 8G OC",
+    "bytes": 43546,
+    "sha256": "6ba43462d19d09a56a22c4ddd5089abf50e47871b65140506ac7baff2b828ce8"
+  },
+  "graphics-003": {
+    "name": "NVIDIA GeForce RTX 4060 Ti 16 GB",
+    "src": "/images/catalog/products/graphics-003.webp",
+    "sourcePage": "https://www.msi.com/Graphics-Card/GeForce-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_1689129550072bc131a003afd3430ce5ea358978fd.webp",
+    "sourceTitle": "MSI GeForce RTX 4060 Ti VENTUS 2X BLACK 16G OC",
+    "variant": "MSI GeForce RTX 4060 Ti VENTUS 2X BLACK 16G OC",
+    "bytes": 45228,
+    "sha256": "7ae567af17ecded384a6df36f89b5acf19498b7de4ef8cdd4e0b257fd474f4f8"
+  },
+  "graphics-004": {
+    "name": "NVIDIA GeForce RTX 4070",
+    "src": "/images/catalog/products/graphics-004.webp",
+    "sourcePage": "https://www.msi.com/Graphics-Card/GeForce-RTX-4070-VENTUS-2X-12G-OC",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_1681289960b8facf0282b5b2d475a75d487793ffe5.webp",
+    "sourceTitle": "MSI GeForce RTX™ 4070 VENTUS 2X 12G OC | Graphics Card | MSI Global",
+    "variant": "MSI GeForce RTX 4070 VENTUS 2X 12G OC",
+    "bytes": 42642,
+    "sha256": "04d266ac096d9febd675f29332af5811582bdd94aeff5e4b410702429bd605c7"
+  },
+  "graphics-005": {
+    "name": "NVIDIA GeForce RTX 4070 SUPER",
+    "src": "/images/catalog/products/graphics-005.webp",
+    "sourcePage": "https://www.msi.com/Graphics-Card/GeForce-RTX-4070-SUPER-12G-VENTUS-2X-OC",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_1704699649413398d807686f322a7a562d15b205df.webp",
+    "sourceTitle": "MSI GeForce RTX™ 4070 SUPER 12G VENTUS 2X OC",
+    "variant": "MSI GeForce RTX 4070 SUPER 12G VENTUS 2X OC",
+    "bytes": 51766,
+    "sha256": "eaff947ebea88f1e678bc955e1436aedaaf744727c71cd8dc705a52c6c66e8a3"
+  },
+  "graphics-006": {
+    "name": "NVIDIA GeForce RTX 4070 Ti SUPER",
+    "src": "/images/catalog/products/graphics-006.webp",
+    "sourcePage": "https://www.msi.com/Graphics-Card/GeForce-RTX-4070-Ti-SUPER-16G-VENTUS-3X-OC",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_1704700728b47381906e632e94e297c71f2a71782b.webp",
+    "sourceTitle": "MSI GeForce RTX™ 4070 Ti SUPER 16G VENTUS 3X OC",
+    "variant": "MSI GeForce RTX 4070 Ti SUPER 16G VENTUS 3X OC",
+    "bytes": 53742,
+    "sha256": "f5d33789098d9e121dbe3f492f7b7fe106faf48a789fd2cf48d4913b01d31c2b"
+  },
+  "graphics-007": {
+    "name": "NVIDIA GeForce RTX 4080 SUPER",
+    "src": "/images/catalog/products/graphics-007.webp",
+    "sourcePage": "https://www.msi.com/Graphics-Card/GeForce-RTX-4080-SUPER-16G-VENTUS-3X-OC",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_1704700391c0ff70dde2655cc06ad6ccc5737c84bf.webp",
+    "sourceTitle": "MSI GeForce RTX™ 4080 SUPER 16G VENTUS 3X OC",
+    "variant": "MSI GeForce RTX 4080 SUPER 16G VENTUS 3X OC",
+    "bytes": 52814,
+    "sha256": "6341d5b2e26f21733c4876612a3a142ee6f5cd4183da3e1eafd406fd5bae7ee2"
+  },
+  "graphics-008": {
+    "name": "NVIDIA GeForce RTX 4090",
+    "src": "/images/catalog/products/graphics-008.webp",
+    "sourcePage": "https://www.msi.com/Graphics-Card/GeForce-RTX-4090-VENTUS-3X-24G-OC",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_166873895294b85756a48a504111435705eff810d6.webp",
+    "sourceTitle": "GeForce RTX™ 4090 VENTUS 3X 24G OC | Graphics Card | MSI Global",
+    "variant": "GeForce RTX 4090 VENTUS 3X 24G OC",
+    "bytes": 45958,
+    "sha256": "02b6330bf34bdf98bc09389c17385f18a94b6d2c3989439aa14fcbc593592aff"
+  },
+  "graphics-009": {
+    "name": "NVIDIA GeForce RTX 3060 12 GB",
+    "src": "/images/catalog/products/graphics-009.webp",
+    "sourcePage": "https://www.msi.com/Graphics-Card/GeForce-RTX-3060-VENTUS-2X-12G-OC",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_1610443907b48feb29b4a49834f4b19e35c5511db6.webp",
+    "sourceTitle": "MSI GeForce RTX 3060 VENTUS 2X 12G OC | Graphics Card | MSI Global",
+    "variant": "MSI GeForce RTX 3060 VENTUS 2X 12G OC",
+    "bytes": 56510,
+    "sha256": "0b52f1800f77b2c7e3654452a19e983adca8cb2cee128c1a06343a6617002f73"
+  },
+  "graphics-010": {
+    "name": "NVIDIA GeForce RTX 3060 Ti",
+    "src": "/images/catalog/products/graphics-010.webp",
+    "sourcePage": "https://www.msi.com/Graphics-Card/GeForce-RTX-3060-Ti-VENTUS-2X-OC",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_1610429138a73db9c2b0e936d1f2c04787a79e6a84.webp",
+    "sourceTitle": "GeForce RTX™ 3060 Ti VENTUS 2X OC",
+    "variant": "GeForce RTX 3060 Ti VENTUS 2X OC",
+    "bytes": 66434,
+    "sha256": "58003fb5dd2e4d578b356bc059c72fbf80c7da1cb7035aa7822a95d938488c60"
+  },
+  "graphics-011": {
+    "name": "NVIDIA GeForce RTX 3070",
+    "src": "/images/catalog/products/graphics-011.webp",
+    "sourcePage": "https://www.msi.com/Graphics-Card/GeForce-RTX-3070-VENTUS-2X-OC",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_2_20200902133520_5f4f2f18e3582.webp",
+    "sourceTitle": "GeForce RTX™ 3070 VENTUS 2X OC",
+    "variant": "GeForce RTX 3070 VENTUS 2X OC",
+    "bytes": 52968,
+    "sha256": "3d272a6cd10ac99c42e3ec3b1d75815690d96899b19a43fde1798191ea0930e8"
+  },
+  "graphics-012": {
+    "name": "NVIDIA GeForce RTX 3080 10 GB",
+    "src": "/images/catalog/products/graphics-012.webp",
+    "sourcePage": "https://www.msi.com/Graphics-Card/GeForce-RTX-3080-VENTUS-3X-10G-OC",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_7_20200917182157_5f6338c5cd72a.webp",
+    "sourceTitle": "GeForce RTX™ 3080 VENTUS 3X 10G OC",
+    "variant": "GeForce RTX 3080 VENTUS 3X 10G OC",
+    "bytes": 66230,
+    "sha256": "f06dffeee279129b3cd02efe9479a7a8bb785013860a16b7e93259fdc86db689"
+  },
+  "graphics-013": {
+    "name": "AMD Radeon RX 6600",
+    "src": "/images/catalog/products/graphics-013.jpg",
+    "sourcePage": "https://www.amd.com/en/products/graphics/desktops/radeon/6000-series/amd-radeon-rx-6600.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/graphics/2648997-amd-radeon-6600.jpg",
+    "sourceTitle": "Radeon™ RX 6600 Graphics Card",
+    "variant": null,
+    "bytes": 86231,
+    "sha256": "6aab04ef4dd276bc6b7959171b9c36565263ae8273c702f3bcc72b5c079ff5d0"
+  },
+  "graphics-014": {
+    "name": "AMD Radeon RX 6650 XT",
+    "src": "/images/catalog/products/graphics-014.jpg",
+    "sourcePage": "https://www.amd.com/en/products/graphics/desktops/radeon/6000-series/amd-radeon-rx-6650-xt.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/graphics/2648997-amd-radeon-6650xt.jpg",
+    "sourceTitle": "Radeon™ RX 6650 XT Desktop Graphics Card",
+    "variant": null,
+    "bytes": 117682,
+    "sha256": "27297ad6293e3eb92bb5942448d6ce8f83886fe4fd7e4d18977030cb1816c7fa"
+  },
+  "graphics-015": {
+    "name": "AMD Radeon RX 6700 XT",
+    "src": "/images/catalog/products/graphics-015.jpg",
+    "sourcePage": "https://www.amd.com/en/products/graphics/desktops/radeon/6000-series/amd-radeon-rx-6700-xt.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/graphics/2648997-amd-radeon-6700xt.jpg",
+    "sourceTitle": "Radeon™ RX 6700 XT Graphics Card",
+    "variant": null,
+    "bytes": 89943,
+    "sha256": "74cadece5a4265ca4e2f9367834dd887dba7437fc45adabe9ac7f3f587974981"
+  },
+  "graphics-016": {
+    "name": "AMD Radeon RX 6750 XT",
+    "src": "/images/catalog/products/graphics-016.jpg",
+    "sourcePage": "https://www.amd.com/en/products/graphics/desktops/radeon/6000-series/amd-radeon-rx-6750-xt.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/graphics/2648997-amd-radeon-6750xt.jpg",
+    "sourceTitle": "Radeon™ RX 6750 XT Graphics Card",
+    "variant": null,
+    "bytes": 102342,
+    "sha256": "1f30478c02f88473395e9883172bf5e1060ec2ff50109cf9c9b05d2c825135b1"
+  },
+  "graphics-017": {
+    "name": "AMD Radeon RX 6800",
+    "src": "/images/catalog/products/graphics-017.jpg",
+    "sourcePage": "https://www.amd.com/en/products/graphics/desktops/radeon/6000-series/amd-radeon-rx-6800.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/graphics/2648997-amd-radeon-6800.jpg",
+    "sourceTitle": "Radeon™ RX 6800 Graphics Card",
+    "variant": null,
+    "bytes": 105580,
+    "sha256": "d89f5a786025263f96063ae7fd927146f86257dc4c5f651c476f6a15efba3dd8"
+  },
+  "graphics-018": {
+    "name": "AMD Radeon RX 7600",
+    "src": "/images/catalog/products/graphics-018.jpg",
+    "sourcePage": "https://www.amd.com/en/products/graphics/desktops/radeon/7000-series/amd-radeon-rx-7600.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/graphics/2648997-amd-radeon-7600.jpg",
+    "sourceTitle": "Radeon RX 7600 Desktop Graphics Card",
+    "variant": null,
+    "bytes": 104918,
+    "sha256": "205b2d4b54c9c9235318d186972f010ba618da0a8b0444aa4f64408777d98b18"
+  },
+  "graphics-019": {
+    "name": "AMD Radeon RX 7600 XT",
+    "src": "/images/catalog/products/graphics-019.jpg",
+    "sourcePage": "https://www.amd.com/en/products/graphics/desktops/radeon/7000-series/amd-radeon-rx-7600-xt.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/graphics/2648997-amd-radeon-7600xt.jpg",
+    "sourceTitle": "Radeon RX 7600 XT",
+    "variant": null,
+    "bytes": 116009,
+    "sha256": "2ba63fd0aa0f4845833da59be2c16c9fb16dcaf6b2f696a754fad5e10f66b224"
+  },
+  "graphics-020": {
+    "name": "AMD Radeon RX 7700 XT",
+    "src": "/images/catalog/products/graphics-020.jpg",
+    "sourcePage": "https://www.amd.com/en/products/graphics/desktops/radeon/7000-series/amd-radeon-rx-7700-xt.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/graphics/2648997-amd-radeon-7700xt.jpg",
+    "sourceTitle": "Radeon™ RX 7700 XT",
+    "variant": null,
+    "bytes": 89965,
+    "sha256": "dd0cbaeebc487b7be61d69f4be00ef0d479e81f2898b34c98bdb987a719111d0"
+  },
+  "graphics-021": {
+    "name": "AMD Radeon RX 7800 XT",
+    "src": "/images/catalog/products/graphics-021.jpg",
+    "sourcePage": "https://www.amd.com/en/products/graphics/desktops/radeon/7000-series/amd-radeon-rx-7800-xt.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/graphics/2648997-amd-radeon-7800xt.jpg",
+    "sourceTitle": "Radeon™ RX 7800 XT",
+    "variant": null,
+    "bytes": 89965,
+    "sha256": "dd0cbaeebc487b7be61d69f4be00ef0d479e81f2898b34c98bdb987a719111d0"
+  },
+  "graphics-022": {
+    "name": "AMD Radeon RX 7900 GRE",
+    "src": "/images/catalog/products/graphics-022.jpg",
+    "sourcePage": "https://www.amd.com/en/products/graphics/desktops/radeon/7000-series/amd-radeon-rx-7900-gre.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/graphics/2648997-amd-radeon-7900gre.jpg",
+    "sourceTitle": "Radeon™ RX 7900 GRE Desktop Graphics Card",
+    "variant": null,
+    "bytes": 107058,
+    "sha256": "61c76b19a72519adb31b921791c78b20d1ea35aeedd75da3b1d31c8baa27b1da"
+  },
+  "graphics-023": {
+    "name": "AMD Radeon RX 7900 XT",
+    "src": "/images/catalog/products/graphics-023.jpg",
+    "sourcePage": "https://www.amd.com/en/products/graphics/desktops/radeon/7000-series/amd-radeon-rx-7900xt.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/graphics/2648997-amd-radeon-7900xt.jpg",
+    "sourceTitle": "Radeon™ RX 7900 XT",
+    "variant": null,
+    "bytes": 96565,
+    "sha256": "ad4317cd1e6ca66474b926d138acc282f1e7708633a404fa35f579299c6db0fe"
+  },
+  "graphics-024": {
+    "name": "AMD Radeon RX 7900 XTX",
+    "src": "/images/catalog/products/graphics-024.jpg",
+    "sourcePage": "https://www.amd.com/en/products/graphics/desktops/radeon/7000-series/amd-radeon-rx-7900xtx.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/graphics/2648997-amd-radeon-7900xtx.jpg",
+    "sourceTitle": "Radeon™ RX 7900 XTX",
+    "variant": null,
+    "bytes": 106500,
+    "sha256": "357a2be7548865574187e5f414a6686a25df4c349aa391f5082585963ae86bb3"
+  },
+  "motherboards-001": {
+    "name": "ASUS PRIME B450M-A II",
+    "src": "/images/catalog/products/motherboards-001.png",
+    "sourcePage": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b450m-a-ii/",
+    "sourceImage": "https://dlcdnwebimgs.asus.com/gain/22e34011-bc8d-4b54-b48f-7b7cc897eb06/",
+    "sourceTitle": "PRIME B450M-A II｜Motherboards｜ASUS Global",
+    "variant": null,
+    "bytes": 2717238,
+    "sha256": "63a4f6eaf9159320542a51b935f20f3af6bcf1ade6387a2f17e082a299d78dca"
+  },
+  "motherboards-002": {
+    "name": "ASUS TUF GAMING B550-PLUS",
+    "src": "/images/catalog/products/motherboards-002.png",
+    "sourcePage": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b550-plus/",
+    "sourceImage": "https://dlcdnwebimgs.asus.com/gain/308e8189-5ea1-4ead-b5ef-2aa7b2c2692e/",
+    "sourceTitle": "TUF GAMING B550-PLUS｜Motherboards｜ASUS Global",
+    "variant": null,
+    "bytes": 4686265,
+    "sha256": "c546d5bec671c5591ae5a8706d38f4ab99a99d3b959b04d2efb626a52da262b2"
+  },
+  "motherboards-003": {
+    "name": "ASUS ROG STRIX B550-F GAMING",
+    "src": "/images/catalog/products/motherboards-003.png",
+    "sourcePage": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-f-gaming-model/",
+    "sourceImage": "https://dlcdnwebimgs.asus.com/gain/803CCAEB-848C-416A-A24C-B107B9575134",
+    "sourceTitle": "ROG STRIX B550-F GAMING | Motherboards | ROG Global",
+    "variant": null,
+    "bytes": 4879933,
+    "sha256": "228ec2098c29beb3aecf101cb2ae2b07b49c1bfd5872cb816e362fb096b02977"
+  },
+  "motherboards-004": {
+    "name": "MSI B450 TOMAHAWK MAX II",
+    "src": "/images/catalog/products/motherboards-004.webp",
+    "sourcePage": "https://www.msi.com/Motherboard/B450-TOMAHAWK-MAX-II",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_7_20200923154001_5f6afbd1125e2.webp",
+    "sourceTitle": "B450 TOMAHAWK MAX II Gaming Motherboard (AMD Ryzen 3000 3rd gen ryzen AM4, DDR4, M.2, USB 3.2 Gen 1, Wi-Fi, HDMI, ATX)",
+    "variant": null,
+    "bytes": 94978,
+    "sha256": "6edbef3c4eb8d9c0cf412c1780530459041e77abc40280edeab2a437240726cc"
+  },
+  "motherboards-005": {
+    "name": "MSI B550M PRO-VDH WIFI",
+    "src": "/images/catalog/products/motherboards-005.webp",
+    "sourcePage": "https://www.msi.com/Motherboard/B550M-PRO-VDH-WIFI",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_10_20200618152228_5eeb1634e9295.webp",
+    "sourceTitle": "B550M PRO-VDH WIFI",
+    "variant": null,
+    "bytes": 100994,
+    "sha256": "be39e3b40dabc7aa4977b47d533df2137055e440b4a6a36854e76914b0cc1e68"
+  },
+  "motherboards-006": {
+    "name": "MSI MAG B550 TOMAHAWK",
+    "src": "/images/catalog/products/motherboards-006.webp",
+    "sourcePage": "https://www.msi.com/Motherboard/MAG-B550-TOMAHAWK",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_160938336626fdb6ca106517e76e29ed491af5e8c7.webp",
+    "sourceTitle": "MSI MAG B550 TOMAHAWK AMD AM4 DDR4 CF M.2 USB 3.2 Gen 2 HDMI ATX Gaming Motherboard",
+    "variant": null,
+    "bytes": 76910,
+    "sha256": "319e5e1b7765304ab501446ff982df3d8c55fcb9c368a8db5b7b8e9227a9da98"
+  },
+  "motherboards-007": {
+    "name": "Gigabyte B550 AORUS ELITE V2",
+    "src": "/images/catalog/products/motherboards-007.png",
+    "sourcePage": "https://www.gigabyte.com/Motherboard/B550-AORUS-ELITE-V2-rev-10",
+    "sourceImage": "https://static.gigabyte.com/StaticFile/Image/Global/7e4d790279f6985e11f18b0fdbbc2fcd/ProductRemoveBg/25741",
+    "sourceTitle": "B550 AORUS ELITE V2 (Rev. 1.0&#x2F;1.1) Motherboard - GIGABYTE Global",
+    "variant": null,
+    "bytes": 514415,
+    "sha256": "a8a564ea167b8036920b46589c6ab3d23c27fee581449b78744851e87baff6ef"
+  },
+  "motherboards-008": {
+    "name": "ASRock B550M Pro4",
+    "src": "/images/catalog/products/motherboards-008.png",
+    "sourcePage": "https://www.asrockchina.com.cn/MB/AMD/B550M%20Pro4/index.us.asp",
+    "sourceImage": "https://www.asrockchina.com.cn/mb/photo/B550M%20Pro4(M1).png",
+    "sourceTitle": "ASRock > B550M Pro4",
+    "variant": null,
+    "bytes": 94067,
+    "sha256": "4dffda345e24bcc41591548ffed0114cc6b09e6301256fc1a056357e7c4fa227"
+  },
+  "motherboards-009": {
+    "name": "ASUS PRIME B650-PLUS",
+    "src": "/images/catalog/products/motherboards-009.png",
+    "sourcePage": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b650-plus/",
+    "sourceImage": "https://dlcdnwebimgs.asus.com/gain/baad4e8f-02fa-4ab0-9939-125095a16c3a/",
+    "sourceTitle": "PRIME B650-PLUS｜Motherboards｜ASUS Global",
+    "variant": null,
+    "bytes": 1910822,
+    "sha256": "1c49adb395b53e109013535739174792f443c6e13ba3d5e4c24384fcdc5073f7"
+  },
+  "motherboards-010": {
+    "name": "ASUS TUF GAMING B650-PLUS WIFI",
+    "src": "/images/catalog/products/motherboards-010.png",
+    "sourcePage": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650-plus-wifi/",
+    "sourceImage": "https://dlcdnwebimgs.asus.com/gain/d52e1dd0-6b0b-4c62-a625-01c5e41a8b07/",
+    "sourceTitle": "TUF GAMING B650-PLUS WIFI｜Motherboards｜ASUS Global",
+    "variant": null,
+    "bytes": 2086964,
+    "sha256": "5b6dba0b435d6ec180c56f869e36dbdd303109dcc321938271ae4563d18a77bc"
+  },
+  "motherboards-011": {
+    "name": "ASUS ROG STRIX B650E-F GAMING WIFI",
+    "src": "/images/catalog/products/motherboards-011.png",
+    "sourcePage": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b650e-f-gaming-wifi-model/",
+    "sourceImage": "https://dlcdnwebimgs.asus.com/gain/566A4DF8-85E5-4958-9CEE-21F4629E53AB",
+    "sourceTitle": "ROG STRIX B650E-F GAMING WIFI | ROG Strix | Gaming Motherboards｜ROG - Republic of Gamers｜ROG Global",
+    "variant": null,
+    "bytes": 2410637,
+    "sha256": "33c6390bf8900c7c81cbca80405c3ca96125be72c23c334e33e3b63b1d2fb0ac"
+  },
+  "motherboards-012": {
+    "name": "MSI PRO B650-P WIFI",
+    "src": "/images/catalog/products/motherboards-012.webp",
+    "sourcePage": "https://www.msi.com/Motherboard/PRO-B650-P-WIFI",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_1664781998a2d5322825fd21fcbd7062e1ddea470c.webp",
+    "sourceTitle": "PRO B650-P WIFI",
+    "variant": null,
+    "bytes": 89512,
+    "sha256": "0e80991857c8b1e01ab147f00d169d47d99d9e83b3d5a8f0169c61bdae159e2f"
+  },
+  "motherboards-013": {
+    "name": "MSI MAG B650 TOMAHAWK WIFI",
+    "src": "/images/catalog/products/motherboards-013.webp",
+    "sourcePage": "https://www.msi.com/Motherboard/MAG-B650-TOMAHAWK-WIFI",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_166478620721bbeb5fac5e7800fc1614cf6e023720.webp",
+    "sourceTitle": "MAG B650 TOMAHAWK WIFI",
+    "variant": null,
+    "bytes": 78560,
+    "sha256": "99508d4daafe69a4395bc40310fb6f98faa75f2296bb88649df11f4c763877cd"
+  },
+  "motherboards-014": {
+    "name": "Gigabyte B650 AORUS ELITE AX",
+    "src": "/images/catalog/products/motherboards-014.png",
+    "sourcePage": "https://www.gigabyte.com/Motherboard/B650-AORUS-ELITE-AX-rev-10",
+    "sourceImage": "https://static.gigabyte.com/StaticFile/Image/Global/db171cf121e076c5ac63c879c3820676/ProductRemoveBg/32102",
+    "sourceTitle": "B650 AORUS ELITE AX (Rev. 1.0&#x2F;1.1) Motherboard - GIGABYTE Global",
+    "variant": null,
+    "bytes": 1063588,
+    "sha256": "62d4aab45412cf3aa0e20600ef9f2fdab4348c463daf26b4a383bcc4ffab6b9b"
+  },
+  "motherboards-015": {
+    "name": "ASRock B650M Pro RS",
+    "src": "/images/catalog/products/motherboards-015.png",
+    "sourcePage": "https://www.asrockchina.com.cn/MB/AMD/B650M%20Pro%20RS/index.us.asp",
+    "sourceImage": "https://www.asrockchina.com.cn/mb/photo/B650M%20Pro%20RS(M1).png",
+    "sourceTitle": "ASRock > B650M Pro RS",
+    "variant": null,
+    "bytes": 562613,
+    "sha256": "8ded4b9b73132f45ac94666bb0665052461bcf371bcd1bb4002207147d874214"
+  },
+  "motherboards-016": {
+    "name": "ASRock X670E Steel Legend",
+    "src": "/images/catalog/products/motherboards-016.png",
+    "sourcePage": "https://www.asrockchina.com.cn/MB/AMD/X670E%20Steel%20Legend/index.us.asp",
+    "sourceImage": "https://www.asrockchina.com.cn/mb/photo/X670E%20Steel%20Legend(M1).png",
+    "sourceTitle": "ASRock > X670E Steel Legend",
+    "variant": null,
+    "bytes": 639795,
+    "sha256": "2528dd3b584e733c3673b60c0919f46183c4a35069beb150b2f7f3a3626678b3"
+  },
+  "motherboards-017": {
+    "name": "ASUS PRIME B660M-A D4",
+    "src": "/images/catalog/products/motherboards-017.png",
+    "sourcePage": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b660m-a-d4/",
+    "sourceImage": "https://dlcdnwebimgs.asus.com/gain/8d9e3b62-76b3-4755-825c-f940eb1adeb6/",
+    "sourceTitle": "PRIME B660M-A D4｜Motherboards｜ASUS Global",
+    "variant": null,
+    "bytes": 2589810,
+    "sha256": "f364d02699d2aec3dbb8d526949e0626017342d1c7509ba789e678fa13e39f14"
+  },
+  "motherboards-018": {
+    "name": "ASUS TUF GAMING B760-PLUS WIFI D4",
+    "src": "/images/catalog/products/motherboards-018.png",
+    "sourcePage": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b760-plus-wifi-d4/",
+    "sourceImage": "https://dlcdnwebimgs.asus.com/gain/7863d737-c623-4cbc-8f67-f492f6e26ad1/",
+    "sourceTitle": "TUF GAMING B760-PLUS WIFI D4｜Motherboards｜ASUS Global",
+    "variant": null,
+    "bytes": 1814350,
+    "sha256": "ef35de71dd206f272704854af6cfe8f0737aff0cd80f0da828156b4e48daa173"
+  },
+  "motherboards-019": {
+    "name": "ASUS ROG STRIX Z790-E GAMING WIFI",
+    "src": "/images/catalog/products/motherboards-019.png",
+    "sourcePage": "https://rog.asus.com/motherboards/rog-strix/rog-strix-z790-e-gaming-wifi-model/",
+    "sourceImage": "https://dlcdnwebimgs.asus.com/gain/A14B0E0C-2EF6-4A28-9E30-089DCE5BF278",
+    "sourceTitle": "ROG STRIX Z790-E GAMING WIFI | ROG Strix | Gaming Motherboards｜ROG - Republic of Gamers｜ROG Global",
+    "variant": null,
+    "bytes": 2606826,
+    "sha256": "8cf8739cf747322df15b93c5a41cdf4875d7f1a0fdad9a122bbfad5be09589f4"
+  },
+  "motherboards-020": {
+    "name": "MSI PRO B760M-A WIFI DDR4",
+    "src": "/images/catalog/products/motherboards-020.webp",
+    "sourcePage": "https://www.msi.com/Motherboard/PRO-B760M-A-WIFI-DDR4",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_1672736842b70a72bde31e586c0461cc8fcee6cca8.webp",
+    "sourceTitle": "PRO B760M-A WIFI DDR4",
+    "variant": null,
+    "bytes": 78520,
+    "sha256": "722f85c2ba0110c265851be5c074f22badd611a2165d718116507e3a3b3c6343"
+  },
+  "motherboards-021": {
+    "name": "MSI MAG Z790 TOMAHAWK WIFI",
+    "src": "/images/catalog/products/motherboards-021.webp",
+    "sourcePage": "https://www.msi.com/Motherboard/MAG-Z790-TOMAHAWK-WIFI",
+    "sourceImage": "https://storage-asset.msi.com/global/picture/product/product_1664265391459c76c55d481a806150407f1b07a6bb.webp",
+    "sourceTitle": "MAG Z790 TOMAHAWK WIFI",
+    "variant": null,
+    "bytes": 66876,
+    "sha256": "5d73a5d7ff6e3d613603d443589c7ce285ced034399c82dfe17872e2307d0598"
+  },
+  "motherboards-022": {
+    "name": "Gigabyte B760 GAMING X AX",
+    "src": "/images/catalog/products/motherboards-022.png",
+    "sourcePage": "https://www.gigabyte.com/Motherboard/B760-GAMING-X-AX-rev-10",
+    "sourceImage": "https://static.gigabyte.com/StaticFile/Image/Global/5b993eb1f4fa3978a5e15061d9d71a67/ProductRemoveBg/33300",
+    "sourceTitle": "B760 GAMING X AX (Rev. 1.x) Motherboard - GIGABYTE Global",
+    "variant": null,
+    "bytes": 285890,
+    "sha256": "76daf1b32f730605a4da27bc6aec7ad04eff1d4577a8b4e87a68ff4b043b6cf4"
+  },
+  "motherboards-023": {
+    "name": "Gigabyte Z790 AORUS ELITE AX",
+    "src": "/images/catalog/products/motherboards-023.png",
+    "sourcePage": "https://www.gigabyte.com/Motherboard/Z790-AORUS-ELITE-AX-rev-10",
+    "sourceImage": "https://static.gigabyte.com/StaticFile/Image/Global/0c6899b3e79329e5c8236fda4441fe0e/ProductRemoveBg/32578",
+    "sourceTitle": "Z790 AORUS ELITE AX (Rev. 1.0) Motherboard - GIGABYTE Global",
+    "variant": null,
+    "bytes": 1009448,
+    "sha256": "cb5c71ceae80298e394efce4030b5b2320c79092fc6c24a701dcd541412926f6"
+  },
+  "motherboards-024": {
+    "name": "ASRock B760 Pro RS",
+    "src": "/images/catalog/products/motherboards-024.png",
+    "sourcePage": "https://www.asrockchina.com.cn/MB/Intel/B760%20Pro%20RS/index.us.asp",
+    "sourceImage": "https://www.asrockchina.com.cn/mb/photo/B760%20Pro%20RS(M1).png",
+    "sourceTitle": "ASRock > B760 Pro RS",
+    "variant": null,
+    "bytes": 574933,
+    "sha256": "a3c630666a64e418dee6cd66871d31a558cd39f6a30f41100f0f87b5e818e1e1"
+  },
+  "processors-001": {
+    "name": "AMD Ryzen 5 5500",
+    "src": "/images/catalog/products/processors-001.jpg",
+    "sourcePage": "https://www.techpowerup.com/cpu-specs/ryzen-5-5500.c2756",
+    "sourceImage": "https://tpucdn.com/cpu-specs/images/chips/2756-front.jpg",
+    "sourceTitle": "AMD Ryzen 5 5500 Specs | TechPowerUp CPU Database",
+    "variant": null,
+    "bytes": 195849,
+    "sha256": "5f05be485fc49c8610942ba5d3192d642c65d5a9398bd6ae014b77f80383864b"
+  },
+  "processors-002": {
+    "name": "AMD Ryzen 5 5600",
+    "src": "/images/catalog/products/processors-002.jpg",
+    "sourcePage": "https://www.techpowerup.com/cpu-specs/ryzen-5-5600.c2743",
+    "sourceImage": "https://tpucdn.com/cpu-specs/images/chips/2743-front.jpg",
+    "sourceTitle": "AMD Ryzen 5 5600 Specs | TechPowerUp CPU Database",
+    "variant": null,
+    "bytes": 195841,
+    "sha256": "faf0e813a3da74df9af21290e770f739827080042beb27529b00fd338dd22d78"
+  },
+  "processors-003": {
+    "name": "AMD Ryzen 5 5600X",
+    "src": "/images/catalog/products/processors-003.jpg",
+    "sourcePage": "https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-5-5600x.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-5-5600x-og.jpg",
+    "sourceTitle": "AMD Ryzen™ 5 5600X Desktop Processors",
+    "variant": null,
+    "bytes": 50181,
+    "sha256": "737b5aa5313c25f4567ad9ea5be3b4facfc985f80149a7610b548300e32b1871"
+  },
+  "processors-004": {
+    "name": "AMD Ryzen 7 5700X",
+    "src": "/images/catalog/products/processors-004.jpg",
+    "sourcePage": "https://www.techpowerup.com/cpu-specs/ryzen-7-5700x.c2755",
+    "sourceImage": "https://tpucdn.com/cpu-specs/images/chips/2755-front.jpg",
+    "sourceTitle": "AMD Ryzen 7 5700X Specs | TechPowerUp CPU Database",
+    "variant": null,
+    "bytes": 184366,
+    "sha256": "618e48fc3429c19625cac1adb3e5b4aa19075ae3428349dfc34b98ac24c39aa2"
+  },
+  "processors-005": {
+    "name": "AMD Ryzen 7 5700X3D",
+    "src": "/images/catalog/products/processors-005.jpg",
+    "sourcePage": "https://www.techpowerup.com/cpu-specs/ryzen-7-5700x3d.c3437",
+    "sourceImage": "https://tpucdn.com/cpu-specs/images/chips/3437-front.jpg",
+    "sourceTitle": "AMD Ryzen 7 5700X3D Specs | TechPowerUp CPU Database",
+    "variant": null,
+    "bytes": 116295,
+    "sha256": "c69b0d4f8ccc6cf00516825c7b251c74150204563ac87c4e34822ae9ac185364"
+  },
+  "processors-006": {
+    "name": "AMD Ryzen 7 5800X",
+    "src": "/images/catalog/products/processors-006.jpg",
+    "sourcePage": "https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-7-5800x.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-7-5800x-og.jpg",
+    "sourceTitle": "AMD Ryzen™ 7 5800X Desktop Processor",
+    "variant": null,
+    "bytes": 48052,
+    "sha256": "f065cf619a16442ed40dae5c25c4e69d49af8315e1b612fc28eebb97da52ece5"
+  },
+  "processors-007": {
+    "name": "AMD Ryzen 9 5900X",
+    "src": "/images/catalog/products/processors-007.jpg",
+    "sourcePage": "https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-9-5900x.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-9-5900x-og.jpg",
+    "sourceTitle": "AMD Ryzen™ 9 5900X Desktop Processor",
+    "variant": null,
+    "bytes": 48152,
+    "sha256": "fb81eb49bbb09689b20e38eefd20eda63ce0ecb5525bf0983e0802135b6eea3c"
+  },
+  "processors-008": {
+    "name": "AMD Ryzen 5 7600",
+    "src": "/images/catalog/products/processors-008.jpg",
+    "sourcePage": "https://www.techpowerup.com/cpu-specs/ryzen-5-7600.c2959",
+    "sourceImage": "https://tpucdn.com/cpu-specs/images/chips/2959-front.jpg",
+    "sourceTitle": "AMD Ryzen 5 7600 Specs | TechPowerUp CPU Database",
+    "variant": null,
+    "bytes": 198479,
+    "sha256": "a3405c0f5f4516358c1346bd98fad9e8b4b06fe456eb165f35c355642402403f"
+  },
+  "processors-009": {
+    "name": "AMD Ryzen 5 7600X",
+    "src": "/images/catalog/products/processors-009.jpg",
+    "sourcePage": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-5-7600x.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-5-7600x-og.jpg",
+    "sourceTitle": "AMD Ryzen™ 5 7600X Desktop Processor",
+    "variant": null,
+    "bytes": 36185,
+    "sha256": "79958c51e23a6451e5a6239294691e34cae7901af0f4648ebcf4b7c261369b02"
+  },
+  "processors-010": {
+    "name": "AMD Ryzen 7 7700",
+    "src": "/images/catalog/products/processors-010.jpg",
+    "sourcePage": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7700.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-7-7700-og.jpg",
+    "sourceTitle": "AMD Ryzen™ 7 7700 Gaming Processor",
+    "variant": null,
+    "bytes": 37622,
+    "sha256": "f66a23b69b71b8d5b1262df6833bd84cbec5e7027965a4ecdff14d3c196a4de0"
+  },
+  "processors-011": {
+    "name": "AMD Ryzen 7 7700X",
+    "src": "/images/catalog/products/processors-011.jpg",
+    "sourcePage": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7700x.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-7-7700x-og.jpg",
+    "sourceTitle": "AMD Ryzen™ 7 7700X Desktop Processor",
+    "variant": null,
+    "bytes": 35582,
+    "sha256": "86c7a65010c32ec84040cb3e0515aa4219953d9a3f42462fc7b517f0c8438d3c"
+  },
+  "processors-012": {
+    "name": "AMD Ryzen 7 7800X3D",
+    "src": "/images/catalog/products/processors-012.jpg",
+    "sourcePage": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800x3d.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-7-7800x3d-og.jpg",
+    "sourceTitle": "AMD Ryzen™ 7 7800X3D Desktop Processor",
+    "variant": null,
+    "bytes": 41094,
+    "sha256": "13f5ef03400b6881c4e8b0a1c3c56c79876a83d26a2773bdd65a1f98305f3f7b"
+  },
+  "processors-013": {
+    "name": "AMD Ryzen 9 7900X",
+    "src": "/images/catalog/products/processors-013.jpg",
+    "sourcePage": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7900x.html",
+    "sourceImage": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-9-7900x-og.jpg",
+    "sourceTitle": "AMD Ryzen™ 9 7900X Desktop Processor",
+    "variant": null,
+    "bytes": 40289,
+    "sha256": "87a060ab511b77ba3e2569810fefc4ae5a4e091641b6da4db0a3bd8d66dba051"
+  },
+  "processors-014": {
+    "name": "AMD Ryzen 9 7950X",
+    "src": "/images/catalog/products/processors-014.jpg",
+    "sourcePage": "https://www.techpowerup.com/cpu-specs/ryzen-9-7950x.c2846",
+    "sourceImage": "https://tpucdn.com/cpu-specs/images/chips/2846-front.jpg",
+    "sourceTitle": "AMD Ryzen 9 7950X Specs | TechPowerUp CPU Database",
+    "variant": null,
+    "bytes": 96966,
+    "sha256": "c7258d9af8c0d013f71e8ee60460446d04d93c2498c5efb52bd6bbabe6af9e8c"
+  },
+  "processors-015": {
+    "name": "Intel Core i3-12100F",
+    "src": "/images/catalog/products/processors-015.jpg",
+    "sourcePage": "https://www.techpowerup.com/cpu-specs/core-i3-12100f.c2543",
+    "sourceImage": "https://tpucdn.com/cpu-specs/images/chips/2543-front.jpg",
+    "sourceTitle": "Intel Core i3-12100F Specs | TechPowerUp CPU Database",
+    "variant": null,
+    "bytes": 196165,
+    "sha256": "99baf372dead3a0a9f87d8fa198fd927eea27410b85b18a216c1d37f7171c9d1"
+  },
+  "processors-016": {
+    "name": "Intel Core i5-12400F",
+    "src": "/images/catalog/products/processors-016.jpg",
+    "sourcePage": "https://www.techpowerup.com/cpu-specs/core-i5-12400f.c2550",
+    "sourceImage": "https://tpucdn.com/cpu-specs/images/chips/2550-front.jpg",
+    "sourceTitle": "Intel Core i5-12400F Specs | TechPowerUp CPU Database",
+    "variant": null,
+    "bytes": 138739,
+    "sha256": "7c02eed369ec7cb5caf4661bada41f13ae63379f86bfb108e04a72993e92f312"
+  },
+  "processors-017": {
+    "name": "Intel Core i5-12600K",
+    "src": "/images/catalog/products/processors-017.jpg",
+    "sourcePage": "https://www.techpowerup.com/cpu-specs/core-i5-12600k.c2509",
+    "sourceImage": "https://tpucdn.com/cpu-specs/images/chips/2509-front.jpg",
+    "sourceTitle": "Intel Core i5-12600K Specs | TechPowerUp CPU Database",
+    "variant": null,
+    "bytes": 154828,
+    "sha256": "ea1854ebbf09a835c4f31084a36a41ccc9d41018c44f5d8f53bb8387e4e5358a"
+  },
+  "processors-018": {
+    "name": "Intel Core i7-12700K",
+    "src": "/images/catalog/products/processors-018.jpg",
+    "sourcePage": "https://www.techpowerup.com/cpu-specs/core-i7-12700k.c2507",
+    "sourceImage": "https://tpucdn.com/cpu-specs/images/chips/2507-front.jpg",
+    "sourceTitle": "Intel Core i7-12700K Specs | TechPowerUp CPU Database",
+    "variant": null,
+    "bytes": 129059,
+    "sha256": "6ffdf683818ed10c44029a6b4551d249ab21a97b2dff555d13bd1fb3c4b4a7c1"
+  },
+  "processors-019": {
+    "name": "Intel Core i5-13400F",
+    "src": "/images/catalog/products/processors-019.jpg",
+    "sourcePage": "https://www.techpowerup.com/cpu-specs/core-i5-13400f.c2995",
+    "sourceImage": "https://tpucdn.com/cpu-specs/images/chips/2995-front.jpg",
+    "sourceTitle": "Intel Core i5-13400F Specs | TechPowerUp CPU Database",
+    "variant": null,
+    "bytes": 213583,
+    "sha256": "ba2f9fb41f085f7101f6fc55f972de29cdb4d5eb7de3b499c1795453cd83f3fb"
+  },
+  "processors-020": {
+    "name": "Intel Core i5-13600K",
+    "src": "/images/catalog/products/processors-020.jpg",
+    "sourcePage": "https://www.techpowerup.com/cpu-specs/core-i5-13600k.c2829",
+    "sourceImage": "https://tpucdn.com/cpu-specs/images/chips/2829-front.jpg",
+    "sourceTitle": "Intel Core i5-13600K Specs | TechPowerUp CPU Database",
+    "variant": null,
+    "bytes": 229861,
+    "sha256": "e4fd08e4639574c4917526322aa73b75741baf5f523721ac24033bb76f1620d8"
+  },
+  "processors-021": {
+    "name": "Intel Core i7-13700K",
+    "src": "/images/catalog/products/processors-021.jpg",
+    "sourcePage": "https://www.techpowerup.com/cpu-specs/core-i7-13700k.c2850",
+    "sourceImage": "https://tpucdn.com/cpu-specs/images/chips/2850-front.jpg",
+    "sourceTitle": "Intel Core i7-13700K Specs | TechPowerUp CPU Database",
+    "variant": null,
+    "bytes": 240229,
+    "sha256": "2235817b579ee92d52c2d0c943e98775abf81d5118fb72c90564e1d4a177734f"
+  },
+  "processors-022": {
+    "name": "Intel Core i5-14600K",
+    "src": "/images/catalog/products/processors-022.jpg",
+    "sourcePage": "https://www.techpowerup.com/cpu-specs/core-i5-14600k.c3266",
+    "sourceImage": "https://tpucdn.com/cpu-specs/images/chips/3266-front.jpg",
+    "sourceTitle": "Intel Core i5-14600K Specs | TechPowerUp CPU Database",
+    "variant": null,
+    "bytes": 149311,
+    "sha256": "cf1f4085e42a031bb40715136f74e6cc358433d250a707bf6c59c87ce6623622"
+  },
+  "processors-023": {
+    "name": "Intel Core i7-14700K",
+    "src": "/images/catalog/products/processors-023.jpg",
+    "sourcePage": "https://www.techpowerup.com/cpu-specs/core-i7-14700k.c3268",
+    "sourceImage": "https://tpucdn.com/cpu-specs/images/chips/3268-front.jpg",
+    "sourceTitle": "Intel Core i7-14700K Specs | TechPowerUp CPU Database",
+    "variant": null,
+    "bytes": 177615,
+    "sha256": "1a8b35f2afd65abc9465a2c207e99ac8a25009e06b7811272b676207393b604f"
+  },
+  "processors-024": {
+    "name": "Intel Core i9-14900K",
+    "src": "/images/catalog/products/processors-024.jpg",
+    "sourcePage": "https://www.techpowerup.com/cpu-specs/core-i9-14900k.c3269",
+    "sourceImage": "https://tpucdn.com/cpu-specs/images/chips/3269-front.jpg",
+    "sourceTitle": "Intel Core i9-14900K Specs | TechPowerUp CPU Database",
+    "variant": null,
+    "bytes": 185238,
+    "sha256": "023859e2877b8ac6073aa4e7293e3f5e325f4ddee09fa1cac364e58f30f87469"
+  }
+}

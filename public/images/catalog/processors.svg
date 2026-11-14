@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 500" fill="none">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f5f1ec"/><stop offset="1" stop-color="#e0e2e7"/></linearGradient><linearGradient id="silver" x2="1" y2="1"><stop stop-color="#fafafa"/><stop offset=".3" stop-color="#b5bec9"/><stop offset=".6" stop-color="#e4e9ec"/><stop offset="1" stop-color="#919ba9"/></linearGradient><filter id="s" x="-50%" y="-30%" width="200%" height="200%"><feDropShadow dx="0" dy="22" stdDeviation="17" flood-opacity=".25"/></filter><pattern id="pins" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="7" cy="7" r="3" fill="#bf9f51"/></pattern></defs>
+  <path fill="url(#bg)" d="M0 0h640v500H0z"/>
+  <g transform="translate(157 89) rotate(-12 160 160)" filter="url(#s)">
+    <rect x="-3" y="-3" width="326" height="326" rx="9" fill="#c0a967"/>
+    <rect width="320" height="320" rx="8" fill="#2b504e" stroke="#152b2a" stroke-width="5"/>
+    <rect x="8" y="8" width="304" height="304" rx="4" fill="url(#pins)"/>
+    <path d="M45 35h230l10 10v84h-8v66h8v80l-10 10H45l-10-10v-80h8v-66h-8V45Z" fill="url(#silver)" stroke="#e3e8eb" stroke-width="3"/>
+    <path d="M63 65h196M63 70h196" stroke="#96a1ac" stroke-width=".5"/>
+    <text x="160" y="156" text-anchor="middle" font-family="Arial,sans-serif" font-size="38" font-weight="bold" fill="#59626d">CPU</text>
+    <text x="160" y="181" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="3" fill="#727d89">DESKTOP PROCESSOR</text>
+    <path d="M73 248h45m6 0h18m7 0h67" stroke="#6e7b87" stroke-width="2"/>
+    <path d="m11 292 17 17H11Z" fill="#e5bf67"/>
+  </g>
+</svg>
